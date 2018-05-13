@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.form-group {
+	position: relative;
+}
+
+.form-group .error-input {
+	position: absolute;
+	bottom: -50px;
+}
+
+.m-t-md {
+  margin-top: 15px !important; 
+}
+
+.m-b-md {
+  margin-bottom: 15px !important; 
+}
+
+.m-t-lg {
+  margin-top: 30px !important; 
+}
+
+.m-b-lg {
+  margin-bottom: 30px !important; 
+}
