@@ -23,6 +23,9 @@ Run Test
 
 	npm test
 
+Run Build
+
+	npm run build
 
 ---
 
