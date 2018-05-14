@@ -19,6 +19,10 @@ Run Local Server
 
 	npm start
 
+Here all tested strings are saved to a .json file in:
+
+> server/palindromes.json
+
 Run Test
 
 	npm test
@@ -73,9 +77,9 @@ So that was 1 hour and 5 minutes
 ### Advanced
 
 - 00:10:00 - added Json-Server
--    00:10:00 - Extended the actions to use axios as middleware to Json-Server
--    00:15:00 - Problem with setting up Json-Server and Concurrently to run from the same "npm start" command and also as a proxy for the use of app on the same port
--    00:15:00 - Set up and created 20 tests and also modified PalindromeTest method cause the tests show some imperfections
+- 00:10:00 - Extended the actions to use axios as middleware to Json-Server
+- 00:15:00 - Problem with setting up Json-Server and Concurrently to run from the same "npm start" command and also as a proxy for the use of app on the same port
+- 00:15:00 - Set up and created 20 tests and also modified PalindromeTest method cause the tests show some imperfections
 
 So additional work was 50 minutes
 
